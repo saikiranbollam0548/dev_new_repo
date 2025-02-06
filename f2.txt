@@ -1,4 +1,4 @@
 hi
 Now to use the pull i have changed this file
 $ git pull 
-with this data is from cental is pulled to local files
+with this data is from central is pulled to local files
