@@ -1,5 +1,0 @@
-now the file is created and modified
-after modification 
-git add 
-git commit 
-git push these allow to save changes in central repo
